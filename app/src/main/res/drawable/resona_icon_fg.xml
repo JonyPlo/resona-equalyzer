@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cinco barras de ecualizador; de grave a agudo pasan de calido a frio (el espectro de la app). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M30,44 L30,64"
+        android:strokeColor="#FFFF7A59"
+        android:strokeLineCap="round"
+        android:strokeWidth="8" />
+    <path
+        android:pathData="M42,36 L42,72"
+        android:strokeColor="#FFFFC857"
+        android:strokeLineCap="round"
+        android:strokeWidth="8" />
+    <path
+        android:pathData="M54,28 L54,80"
+        android:strokeColor="#FF5BE0B3"
+        android:strokeLineCap="round"
+        android:strokeWidth="8" />
+    <path
+        android:pathData="M66,37 L66,71"
+        android:strokeColor="#FF62B4FF"
+        android:strokeLineCap="round"
+        android:strokeWidth="8" />
+    <path
+        android:pathData="M78,43 L78,65"
+        android:strokeColor="#FF8EA0FF"
+        android:strokeLineCap="round"
+        android:strokeWidth="8" />
+</vector>
