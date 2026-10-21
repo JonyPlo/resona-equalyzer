@@ -23,6 +23,7 @@ android {
         release {
             isMinifyEnabled = false
             isShrinkResources = false
+            outputFileName = "resona.apk"
         }
     }
     compileOptions {
